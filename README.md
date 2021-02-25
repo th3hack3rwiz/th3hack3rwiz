@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on ... Employee Phishing Simulator 
-- 🌱 I’m currently learning about ... Web Application Security
+- 🌱 I’m currently learning about ... Golang!
 - 👯 I’m looking to collaborate with ... Bug bounty hunters
 - 🤔 I’m looking for help with ... AWS Security
 - 💬 Ask me about ... Anything 
