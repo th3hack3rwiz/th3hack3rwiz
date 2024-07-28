@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as ... a Cyber Threat Intelligence Analyst 
 - 🌱 I’m currently learning about ... Threat Intelligence Lifecycle!
 - 👯 I’m looking to collaborate with ... AI developers.
-- 🤔 I’m looking for help with ... integrating AI to create a product.
+- 🤔 I’m looking for help with ... integrating AI to create a cybersecurity product.
 - 💬 Ask me about ... Anything related to cybersecurity
 - 📫 How to reach me at: ... Twitter: [th3hack3rwiz](https://twitter.com/th3hack3rwiz)
 - 😄 Pronouns: ... He/Him
